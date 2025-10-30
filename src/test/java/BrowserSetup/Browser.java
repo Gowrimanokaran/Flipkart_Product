@@ -9,5 +9,6 @@ public class Browser {
 
 
         System.out.println(" Hey Welcome to Git and Github Course ");
+        System.out.println(" Hey Thanks for adding me Now we merged");
     }
 }
